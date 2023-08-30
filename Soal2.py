@@ -9,5 +9,6 @@ temp = piring1
 piring1 = piring2
 piring2 = temp
 
-print("Piring 1 berisikan: ", piring1)
-print("Piring 2 berisikan: ", piring2)
+print("Piring 1 berisi: ", piring1)
+print("Piring 2 berisi: ", piring2)
+print("Piring 3 berisi: ", piring3)
