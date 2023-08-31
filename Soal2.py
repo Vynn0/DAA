@@ -1,4 +1,4 @@
-# 2. Fungsi untuk menukar posisi dua variabel x dan y, dengan kasus : 
+# 2. Fungsi untuk menukar posisi dua variabel x dan y, dengan kasus :
 # Ada 2 buah: manggis dan pisang. Manggis di piring 1, Pisang di piring 2. Piring 3 kosong.
 
 """
@@ -21,7 +21,7 @@ DEFINISIKAN TUKAR_POSISI(x,y) sebagai:
   y = temp
   return x,y
 
-DEKLARASIKAN 
+DEKLARASIKAN
 manggis = "piring 1"
 pisang = "piring 2"
 
