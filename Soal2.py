@@ -14,7 +14,7 @@ Cetak piring sesudah pertukaran
 
 """
 Pseudocode
-
+MULAI
 DEFINISIKAN TUKAR_POSISI(x,y) sebagai:
   temp = x
   x = y
@@ -36,6 +36,7 @@ CETAK PIRING SETELAH PERTUKARAN
 print("\nSetelah pertukaran:")
 print("Manggis:", manggis)
 print("Pisang:", pisang)
+SELESAI
 """
 
 def tukar_posisi(x, y):
