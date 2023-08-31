@@ -1,5 +1,5 @@
 # 6. Tentukan algoritma dan pseudocode volume kerucut
-#    (diameter = 5, tinggi = 4) 
+#    (diameter = 5, tinggi = 4)
 
 # Tentukan nilai jari jari
 # Tentukan nilai tinggi
