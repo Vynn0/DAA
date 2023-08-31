@@ -15,7 +15,7 @@ ALGORITMA
 
 """
 PSEUDOCODE
-
+MULAI
 1. Deklarasikan alas dan tinggi sebagai variabel
 alas = 25
 tinggi = 30
@@ -23,6 +23,7 @@ tinggi = 30
 luas = 0.5 * alas * tinggi
 3. Cetak hasil luas
 print(luas)
+SELESAI
 """
 alas = 25
 tinggi = 30
