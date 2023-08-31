@@ -1,15 +1,17 @@
-# 5. Tentukan algoritma dan pseudocode volume tabung (jari-jari = 3, tinggi = 5) 
+# 5. Tentukan algoritma dan pseudocode volume tabung (jari-jari = 3, tinggi = 5)
 
-# Masukkan nilai jari-jari
-# Masukkan nilai tinggi
-# Volume = phi * (r^2) * t
-
-# BEGIN
-# INPUT NILAI JARI-JARI
-# INPUT NILAI TINGGI
-# V = phi * (r^2) * t
+# Algoritma
+# Masukkan nilai jari-jari sebagai 3
+# Masukkan nilai tinggi sebagai 5
+# Gunakan rumus Volume = phi * (r^2) * t
 # Print output volume
-# SELESAI
+
+# MULAI
+# DEKLARASI JARI-JARI SEBAGAI r
+# DEKLARASI TINGGI SEBAGAI t
+# DEKLARASI VOLUME SEBAGAI: V = pi * (r^2) * t
+# CETAK OUTPUT VOLUME
+# END
 
 r = 3
 t = 5
