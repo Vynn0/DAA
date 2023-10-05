@@ -1,6 +1,6 @@
-# DAA_Day1
+# DAA - Desain Analisis Algoritma
 
-Tugas Desain Analisis Algoritma - Day 1
+Tugas-Tugas Desain Analisis Algoritma
 
-NIM: 2022071019
 NAMA: Halvino Iqbal Nataprawira
+NIM: 2022071019
